@@ -2,6 +2,8 @@
 
 ## Optimizing Mahir
 
+See https://www.reddit.com/r/stoneshard/comments/1p4qdzf/mahir_dual_wield_swords_arcanist_build_idea/ for latest idea.
+
 Mahir's passive ability encourages getting 6 points in a skill tree ASAP, then
 moving on to another tree.
 Therefore, to get the most out of his passive, making a build becomes a game with these "rules":
