@@ -21,6 +21,14 @@ Need a high FAT, high mATK bro.
 The idea is you lash to hit the head with a flail, then quick hands into a 1h
 axe and do very high headshot damage.
 
+### Double Grip Mace / Qatal
+
+Need quick hands and good mATK/mDEF.  Daze with mace, then Qatal.  
+
+### Kingfisher Qatal
+
+Need kingfisher and offhand mastery for trip artist.
+
 ## Roles / "Classes"
 
 The more I get into the endgame the more I realize how much survivability is
@@ -84,6 +92,12 @@ yet.
    excited about beyond raw stats in a new recruit.
 
 ## Moments and Stories
+
+### Day 3 Famed Item
+
+![](/docs/gaming/games/tactics-rpg/day-3-famed.png)
+
+### Tank Lesson
 
 This fight was particularly hard, and taught me that it's important to have a few forward tanks stall time while everyone else cleans up the necrosavants.
 
