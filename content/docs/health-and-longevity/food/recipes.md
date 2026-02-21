@@ -2,7 +2,7 @@
 backlinks-set: 
 categories-set: #{"Health And Longevity" "Food"}
 ---
-# Recipies 
+# Recipes 
 
 [Master Cooking
 Spreadsheet](https://docs.google.com/spreadsheets/d/1d25vAW2nD0BdffwPbQgmy4lRhBi30cJNHOyaC-B9dHM/edit#gid=0)
@@ -20,11 +20,25 @@ than not, the result is actually pretty good!
 
 ## Bread Machine
 
+### Oat Wheat Bread
+
+Excellent texture, despite collapsing top.
+
+ - 1.3 cups water, warm is better i think?
+ - 1.5 tbsp brown sugar
+ - 1.5 tbsp olive oil
+ - 0.9 tsp 50/50 NaCl KCl
+ - 1 cup rolled oats
+ - 2.5 cups whole wheat flour
+ - 1.5 tsp standard yeast that is not too old
+
+Put in bread pan in order listed, then use whole wheat cycle / 1.5 lb loaf.
+
+
 ### Black Bean Bread
 
  - 1  cup  water
- - 3/4  cup  beans
- - black, , dry, cooked, drained  
+ - 3/4  cup  black beans, dry, cooked, drained  
  - 1 1/2  tablespoons  applesauce
  - 1 1/2  tablespoons  honey
  - ¾  teaspoon  salt
@@ -33,6 +47,35 @@ than not, the result is actually pretty good!
  - 1 1/2  teaspoons  yeast, active dry
 
  Use whole wheat cycle on 1.5 lb loaf.
+
+## Oats
+
+### Basic
+
+ - 1 cup rolled oats
+ - 2 cups water
+ - 1/4 tsp salt
+
+Microwave for 3 mins.
+
+### Creamy with Frozen Fruit
+
+ - 0.6 cup rolled oats
+ - 0.6 cup almond flour
+ - water to cover
+ - 1 tsp vanilla extract
+ - 3ish cups frozen fruit
+
+Mix everything, then add frozen fruit on top.
+
+Microwave for 10 mins.
+
+### Overnight
+
+To make overnight oats, use the same ratios, but just leave the oats in the
+fridge overnight instead of cooking. I highly recommend addng chia seeds and/or
+coconut and/or some other kind of nut + some fruit when making overnight oats.
+Yogurt is also good.
 
 
 ## Microwave Breads
@@ -43,7 +86,9 @@ Very flexible recipe, an example base:
  - One part rolled oats
  - One part whole wheat flour
 
-Add enough water to make a runny dough.  Microwave for ~10 minutes.
+Add enough water to make a runny dough.
+Microwave for ~5-10 minutes depending on water level and if you added frozen
+fruit or not.
 
 This recipe is pretty bland: I recommend adding more stuff for flavor, like:
 
@@ -81,26 +126,6 @@ mayonnaise.
 
 Poke some holes in them, and just throw them into the microwave whole for 5-8
 minutes depending on size.
-
-## Oats
-
- - 1 cup rolled oats
- - 2 cups water
- - 1/4 tsp salt
-
-Microwave for 3 mins.
-
-To make overnight oats, use the same ratios, but just leave the oats in the
-fridge overnight instead of cooking. I highly recommend addng chia seeds and/or
-coconut and/or some other kind of nut + some fruit when making overnight oats.
-Yogurt is also good.
-
-Some good toppings:
-
- - Coffee (could even cook in coffee instead of water).
- - Chia seeds (~1-2 tbsp per cup dry oats)
- - Nutmeg
- - Cinnamon
 
 ## Roasted Vegetables
 
@@ -154,19 +179,6 @@ Chickpeas       | 28
 Use 1 tbsp salt to 1 lb dry beans.
 Soak dry beans overnight if possible.
 If not, soak as long as you can and add 5-10 mins to the cooking time.
-
-## Popcorn
-
- - 1/4 - 1/2 cup kernels in a pan with some oil
-
-Cook on high and shake frequently (every 10 secs).
-
-Good Toppings:
-
- - Nutritional Yeast
- - Cavenders Greek Seasoning
- - Olive oil
-
 
 ## Ingredients
 
@@ -223,11 +235,6 @@ Remove from oven and transfer into a large bowl. Add raisins and mix until
 evenly distributed.
 
 Recipe courtesy of Alton Brown.
-
-
-### Sweet Potato Pancakes
-
-TODO find recipe that we used!
 
 
 ### Flax Bread
