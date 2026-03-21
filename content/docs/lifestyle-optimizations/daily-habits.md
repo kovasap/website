@@ -46,24 +46,28 @@ This applies for recurring tasks as well: if I get a recurring task that I want
 to do later, I will mark it as complete, then make a new task with the new name
 with a different date/time.
 
+## Interesting Things
+
+I used to have tasks associated with experiences I want to have, or have again.
+This got really cumbersome.
+So instead I now have a [spreadsheet I regularly
+update](https://docs.google.com/spreadsheets/d/1jnb_Yg9BYhG2O-RGe822YODZSJu2LcjvORL4Q-zDqxA/edit?gid=0#gid=0)
+where I log these things.
+I wrote [some apps script
+code](https://github.com/kovasap/autojournal-on-gas/blob/b1d9e8127f1c22297e610b2a6d49f95a22eb8ccd/src/autojournal/cool_stuff.cljs)
+that sends me an email every day with a random selection of items from this list
+to inspire me to do them.
+
 ## Lifelogging
 
 See more at [Lifelogging / What and Why]({{< relref "/docs/lifelogging/what-and-why.md" >}}).
 
-Try to write a couple notes of what happened during the day in my momentodb
-activity journal, which syncs to [this Google
-Sheet](https://docs.google.com/spreadsheets/d/1nZ-iliU7MtRPoAdP-HbjBees6u3-NIlicHRfewD0Q7A/edit?gid=1108618816#gid=1108618816).
-I specifically try to note at least one thing about work, and one other thing.
-
-*Enforcement mechanism:* I have a recurring daily task to do this.
+I don't do any periodic lifelogging right now, but have many times gotten the
+urge to do it in various forms.
+Data for those attempts is in various Google sheets in my Google Drive.
 
 https://github.com/kovasap/autojournal-on-gas
 
-TODO: try making my own version of https://weeks.ginatrapani.org/ based on my
-activity log data.
-It should be possible to do this by writing a script that downloads activity log
-data from the google sheet with the `gdrive` command line tool and formats it to
-the proper format for the weeks website.
 
 ## This Page
 
