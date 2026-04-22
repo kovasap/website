@@ -136,5 +136,6 @@ TODO: Put some actual raw data here.
 
 ## Sleep Resources
 
+ - https://super-memory.com/articles/sleep.htm
  - Interesting take on the effects sleep has on your physiology:
    https://guzey.com/theses-on-sleep/
