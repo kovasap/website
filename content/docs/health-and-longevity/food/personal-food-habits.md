@@ -10,7 +10,11 @@ See [Personal Specific Food Notes]({{< relref
 "/docs/health-and-longevity/food/personal-specific-food-notes.md" >}}) for
 information about how specific foods affect me.
 
-## Current Habits (8/2025)
+## Current Habits (5/2026)
+
+https://docs.google.com/spreadsheets/d/19tnwNd4eswtWz_jGFjaQP-cBSnqs6N2v-pem_67H_Cc/edit?usp=sharing
+
+## Past Habits (8/2025)
 
 ### Schedule
 
