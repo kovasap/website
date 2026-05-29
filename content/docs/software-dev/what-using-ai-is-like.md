@@ -65,3 +65,43 @@ This is made even worse by a general cultural shift where there is a lot of FOMO
 when not using AI.
 "It seems to work for other people, maybe I'm just holding it wrong, let me try
 again...".
+
+## Other Thoughts from a Coworker
+
+I totally relate to your experience.
+
+ - While code generation is faster, the overall expectation of what we can do
+   has expanded and that leads to higher stress and frustration.
+ - AI output often requires significant cleanup and rework.
+   This cleanup work feels like a chore rather than novel development.
+   It feels like fixing a "broken promise" of what the AI was supposed to
+   deliver.
+ - Pre-AI coding process allowed for deeper reflection, where ideas emerged and
+   implementations were corrected and understanding deepened on the fly.
+ - With AI delegation, the temptation to think deeply while the AI works is
+   reduced.
+ - Context switching while the AI is in progress is my dilemma.
+   It is always a hard decision whether to stay in this project vs. switch
+   context fully.
+
+There are great things to note as well.
+ - I think AI is awesome as an enabler of Understanding actually
+ - It does a lot of the heavy lifting in gathering information, removing the
+   need to search across fragmented sources (g3doc, codesearch, design docs,
+   Buganizer).
+ - I use it to generate high-level descriptions, flow diagrams and test scripts
+   to understand how some things work.
+ - While the accelerated learning is faster I agree that it is shallower.
+   But I think it is a trade off for a broader horizontal knowledge of more
+   systems.
+ - At the same time, I have used to understand some deep parts of a code by
+   asking it to code search and find me specific location where some specific
+   logic or behavior is implemented.
+
+I think the Post-AI world you mentioned is still being shaped and highly chaotic
+rn.
+I think there is a good chance the tools will become more aligned in helping
+engineers do our job more effectively.
+I think they'll redefine our role.
+Another probability is this highly stochastic scenario worsening because there
+is just too many sources of a paradigm shift.
