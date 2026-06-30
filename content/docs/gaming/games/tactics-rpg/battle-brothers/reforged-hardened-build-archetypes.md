@@ -15,6 +15,8 @@ Stats required for the build.  Legend:
 
 If stats are not listed, they can be ignored.
 
+---
+
 ## Ghostlike Executioner
 
 Basically, run up to an enemy and kill them.  Then back off and recover.
@@ -47,6 +49,8 @@ Really forgiving build stat wise.
    - Flexible
    - Axe Perks
 
+---
+
 ## Headhunter
 
 Frontline build, but could also be used as a more fragile double grip damage
@@ -76,6 +80,8 @@ Important to have a way to manage fatigue costs.
  - Nice to have:
    - Duelist
    - Finesse
+
+---
 
 ## Lone Wolf Flanker
 

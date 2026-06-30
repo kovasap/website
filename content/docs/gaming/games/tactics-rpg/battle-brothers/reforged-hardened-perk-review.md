@@ -19,6 +19,8 @@ Even then, there are probably better fatigue-saving perks.
 
  - Perk 1: <description>
 
+---
+
 ## Axe
 
 **Power Level**: A
@@ -64,6 +66,8 @@ Lots of late game enemies have a lot of armor.
 
 Shield damage is less useful.
 
+---
+
 ## Cleaver
 
 **Power Level**: A
@@ -96,6 +100,8 @@ Fatigue reduction is really important.
 Bleeding as an effect is kinda meh.
 It would be different if the bleeding happened at the start of a turn instead of
 at the end, or if it did more damage per stack.
+
+---
 
 ## Flail
 
@@ -136,6 +142,7 @@ Perhaps particularly good with poisons?
  - Fearsome
  - Overwhelm (if fast enough)
 
+---
 
 ## Knave
 
