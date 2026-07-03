@@ -18,6 +18,8 @@ map](https://en.wikipedia.org/wiki/Mind_map) - see [Mind Mapping Concept]({{< re
 I also try to follow this advice on my [Writing]({{< relref
 "/docs/lifestyle-optimizations/writing.md" >}}) page.
 
+---
+
 # Most Recent Posts
 
 See all posts at [All Posts]({{< relref "/docs/all-posts.md" >}}).
@@ -25,5 +27,7 @@ See all posts at [All Posts]({{< relref "/docs/all-posts.md" >}}).
 {{< recent_posts >}}
 
 {{< website_graph />}}
+
+---
 
 Whole site count: 73902 words, 96.0% of Harry Potter and the Sorcerer's Stone

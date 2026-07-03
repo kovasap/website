@@ -74,6 +74,8 @@ Run server locally when writing with:
 hugo server --disableBrowserError --disableFastRender --poll 1000
 ```
 
+The poll option is necessary to detect changes to files link to with symlinks.
+
 If there are no pages showing up in the sidebar, try running:
 
 ```
@@ -82,7 +84,11 @@ If there are no pages showing up in the sidebar, try running:
 
 Do not commit the index data added by this command!
 
-The poll option is necessary to detect changes to files link to with symlinks.
+To quickly update changes in the website-helpers repository:
+
+```
+git submodule update --recursive --remote website-helpers; git add website-helpers; git commit -m 'update helpers'
+```
 
 ## Analytics
 
