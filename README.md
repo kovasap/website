@@ -74,6 +74,14 @@ Run server locally when writing with:
 hugo server --disableBrowserError --disableFastRender --poll 1000
 ```
 
+If there are no pages showing up in the sidebar, try running:
+
+```
+./joker create-index.joke
+```
+
+Do not commit the index data added by this command!
+
 The poll option is necessary to detect changes to files link to with symlinks.
 
 ## Analytics

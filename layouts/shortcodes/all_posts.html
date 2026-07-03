@@ -1,7 +1,7 @@
 <!-- Depends on website-helpers repository. -->
 
-<div id="recent_posts">
-    <div id="recent_posts"></div>
+<div id="all_posts">
+    <div id="all_posts"></div>
     <script type="text/javascript">
         // Show all exported defs/defns we can use.
         // console.log(website_helpers.core);
@@ -10,7 +10,7 @@
         //     website_helpers.core.list_to_hiccup(["a", "b"])));
         // const urlParams = new URLSearchParams(window.location.search);
         website_helpers.core.render_to_element(
-            website_helpers.recent_posts.recent_posts(5),
-            "recent_posts");
+            website_helpers.recent_posts.recent_posts(),
+            "all_posts");
     </script>
 </div>
