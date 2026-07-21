@@ -38,6 +38,9 @@ Really forgiving build stat wise.
 
 ### Perks
 
+ - Groups:
+   - Scoundrel
+   - Powerful Strikes
  - Core:
    - Ghostlike
    - Fresh and Furious
@@ -69,6 +72,12 @@ Important to have a way to manage fatigue costs.
 
 ### Perks
 
+ - Groups:
+   - Flail
+   - Axe
+   - Trained
+   - Agile
+   - (nice to have) Swift Strikes
  - Core:
    - Flail Perks
    - Axe Perks
