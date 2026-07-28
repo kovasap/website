@@ -49,16 +49,16 @@ Practically, since you normally cannot see through walls, you'll need to
 constantly estimate this, drawing the cone from corners enemies could peek out
 at you from.
 
-![Cone Start](/docs/games/cone_of_danger_start.png)
+![Cone Start](/docs/gaming/cone_of_danger_start.png)
 
 Ideally, you want to keep this code as small as possible:
 
-![Cone Small](/docs/games/cone_of_danger_small.png)
+![Cone Small](/docs/gaming/cone_of_danger_small.png)
 
 while making your opponent's cone as large as possible:
 
-![Cone Large](/docs/games/cone_of_danger_large.png)
-![Cone Max](/docs/games/cone_of_danger_max.png)
+![Cone Large](/docs/gaming/cone_of_danger_large.png)
+![Cone Max](/docs/gaming/cone_of_danger_max.png)
 
 The best way to do this is by making it possible for yourself to move around
 your opponent freely without them seeing you, while making it so any movement
