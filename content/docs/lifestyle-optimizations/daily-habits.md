@@ -11,7 +11,9 @@ See [Personal Food Habits]({{< relref
 
 ## Supplements
 
-See [Supplements]({{< relref "/docs/health-and-longevity/food/supplements.md" >}}).
+Lately I haven't been doing any supplementation.
+
+See [Supplements]({{< relref "/docs/health-and-longevity/food/supplements.md" >}}) for past info.
 
 ## Exercise
 
@@ -20,6 +22,35 @@ See [Supplements]({{< relref "/docs/health-and-longevity/food/supplements.md" >}
 I try to move around regularly, via walking around or doing some light
 physical-therapy-style exercises like
 https://www.momentumphysicaltherapy.ca/blog/okotoks-physiotherapy-posture-exercises.
+I'm not great about doing this consistently.
+
+### Biking
+
+I don't own a car and use my bike to get around and commute.
+This means I usually bike for around an hour every week day, and maybe an hour
+total over the weekend.
+
+### Running
+
+Sometimes I run 3 miles to work and go on longer runs (3-5 miles) on weekends.
+
+### Climbing
+
+I try to gym climb for around 2 hours 2-3 days a week.
+This is about 8 rope routes per session, with at least one project route at or
+above my limit.
+
+### Pre-shower Push Ups
+
+Every day before I shower I do push ups until failure (1 set usually).
+This is usually 20-25 wide ones, then 5 or so with hands closer together right
+after.
+
+I started doing this because in a climbing documentary Alex Honnold mentioned
+that it's healthy to "balance out" your musculature by training your chest
+muscles (since climbing heavy works your back muscles).
+Incidentally, this *seems* to have cured my golfer's eblow, which I had been
+struggling with for years.
 
 ## Tasks
 
