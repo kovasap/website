@@ -40,6 +40,15 @@ But they are not longer available :(.
 I've also liked https://amzn.to/4wg3YGK, which have slightly more padding on the
 bottom, but a tighter upper (slight downside for me).
 
+### General Preferences
+
+I've noticed that shoes with very minimal uppers are the most comfortable for
+me.
+Excessive (or even moderate) support structures for laces or general foot shape
+I find easily bother me as they can rub against my foot.
+
+I also think I have an above-average instep height and foot width.
+
 ### Other Shoes I've Tried
 
  - relxfeet barefoot trail runners https://amzn.to/45PHMZm
