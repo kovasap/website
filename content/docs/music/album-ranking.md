@@ -68,4 +68,5 @@ Order not yet finalized.
 1. Zeal & Ardor *Zeal & Ardor*
 1. Pressure *Wage War*
 1. Blueprints *Wage War*
-
+1. Retrograde *Dearest*
+1. Bloom *Anup Sastry*
